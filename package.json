@@ -1,0 +1,24 @@
+{
+  "name": "pairingatnmit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "week-7.js",
+  "scripts": {
+    "dev": "nodemon ./src/week-7.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keeweejames/pairingAtNMIT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keeweejames/pairingAtNMIT/issues"
+  },
+  "homepage": "https://github.com/keeweejames/pairingAtNMIT#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
